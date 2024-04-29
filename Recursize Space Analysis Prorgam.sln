@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Recursize Space Analysis Prorgam", "Recursize Space Analysis Prorgam\Recursize Space Analysis Prorgam.pyproj", "{F7957B0E-6A5C-4B76-AB63-040B5FF7861E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7957B0E-6A5C-4B76-AB63-040B5FF7861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7957B0E-6A5C-4B76-AB63-040B5FF7861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FCD80D9-9C5A-4ED8-9B17-F4E60C9C06D9}
+	EndGlobalSection
+EndGlobal
